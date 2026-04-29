@@ -41,7 +41,7 @@
 
 ## 🛠 Мой backend-стек
 
-- **Язык:** Python 3.12
+- **Язык:** Python
 - **Backend:** FastAPI, Django, Django REST Framework, ADRF
 - **Telegram:** aiogram 3, aiogram-dialog, Fluentogram
 - **Базы данных:** PostgreSQL, MySQL, SQLite, SQLAlchemy 2.0, Django ORM, Alembic
